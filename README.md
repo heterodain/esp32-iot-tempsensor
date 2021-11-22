@@ -17,3 +17,7 @@ ambient data channel settings
 
 video  
 [![Video1](https://img.youtube.com/vi/eX1o_5fpaLc/0.jpg)](https://www.youtube.com/watch?v=eX1o_5fpaLc)
+
+usging library  
+- https://github.com/jlz3008/lm75
+- https://github.com/AmbientDataInc/Ambient_ESP8266_lib
